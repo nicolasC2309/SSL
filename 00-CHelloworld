@@ -1,6 +1,6 @@
-PS C:\sintaxis y semantica de lenguajes\Hola mundo> make hello
-g++     hello.cpp   -o hello
-PS C:\sintaxis y semantica de lenguajes\Hola mundo> ./hello.exe
-Hello, World!
-PS C:\sintaxis y semantica de lenguajes\Hola mundo> 
+hello, world!
+--------------------------------
+Process exited with return value 13
+Press any key to continue . . .
+
 
